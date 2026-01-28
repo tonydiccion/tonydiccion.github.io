@@ -40,6 +40,15 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   margin: 0 0 30px 0; }
 
+/* Specific customization for h2 */
+h2 {
+  color: #000;       /* Example: a nice gold/tan color */
+  font-weight: 400;
+  font-size: 32px; /* Making it bolder than the rest */
+  letter-spacing: 2px;  /* Giving it some breathing room */
+  text-transform: uppercase;
+}
+
 figure {
   margin-bottom: 2.5em;
   float: left;
